@@ -1,18 +1,22 @@
 # Scrimba_7Day_Challenge
-Hi fellow coder 👋
 
-Welcome to the 7-day JavaScript challenge!
+Hey 👋
 
-Every day for the next week, you'll get a quick JavaScript challenge right here in your inbox. The challenges have been created by Dylan Israel and will be presented as Scrimba screencasts, meaning you can solve them directly in the browser. The following day, you'll get Dylan's suggested solution, along with the next challenge.
+It's Per from Scrimba here. This week, we're offering you a free email-based JavaScript course.
 
-If you'd like to watch Dylan's introduction to this course, you can click here. Or, if you'd rather jump directly to the first challenge, click the link below👇
+Those who enroll in it will get a JavaScript challenge in their inbox every day for a week. All created by the eminent Dylan Israel 🔥
 
-Day 1: Add Border
+To enroll, simply click the link below 👇
 
-In this challenge, you'll create a border of asterisk (*) characters around an array. The array methods you can use to solve it are push(), unshift(), and concat().
+​Click here to enroll & watch the first challenge!​
 
-If you feel you're lacking the JavaScript skills needed to solve these challenges, you can check out Dylan's free Intro to JavaScript and Intro to ES6 courses first. And if those aren't enough, we also have a full-blown JavaScript bootcamp.
+The challenges assume that you have basic understanding of JavaScript, and that you know concepts like arrays, strings, functions, conditionals, and loops.
 
+If you're not fully there yet, you can check out Dylan's free Intro to JavaScript and Intro to ES6 courses first. And if those aren't enough, we also have a full-blown JavaScript bootcamp.
+
+Share the challenge!
+If you'd like to share this challenge with someone, you can send them a link to this landing page, so that they can sign up for themselves: https://jschallenge.scrimba.com​
+​
 Best of luck 😁
 
 Cheers
