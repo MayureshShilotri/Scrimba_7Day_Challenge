@@ -6,8 +6,6 @@ function add(...param) {
     return j;
 }
 
-console.log(add(1,2,3,4,5));
-
 /**
 * Test Suite
 */
