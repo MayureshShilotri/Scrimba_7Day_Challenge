@@ -5,6 +5,14 @@ function largestNumber(num) {
     }
     return parseInt(numArr.join(""),10);
 }
+/**
+Another Solution
+
+function largestNumber(num) {
+    \return Math.pow(10, num) - 1;
+}
+*/
+
 
 /**
 * Test Suite
